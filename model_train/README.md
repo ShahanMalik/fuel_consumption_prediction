@@ -100,11 +100,4 @@ Use last 2 digits only:
 - 2005 → 05
 - 2015 → 15
 
----
-
-## Team Work Division
-| Student | Task |
-|---------|------|
-| Student 1 | Download dataset, run train_model.py, check accuracy |
-| Student 2 | Update fuel tips in predict.py, test edge cases |
-| Student 3 | Test Flask API with Postman, integrate with main app |
+ 
