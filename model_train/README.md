@@ -36,7 +36,7 @@ python app.py
 ## API Usage
 
 ### Predict Fuel Efficiency
-```
+```bash
 POST http://localhost:5001/predict/fuel
 ```
 
